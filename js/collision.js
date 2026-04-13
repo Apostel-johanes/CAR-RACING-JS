@@ -76,3 +76,4 @@ function isCollided(div1, div2) {
     // reload the game page.
     location.reload();
   });
+  

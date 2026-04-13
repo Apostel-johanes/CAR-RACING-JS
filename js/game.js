@@ -140,3 +140,4 @@ function repeat() {
       line_6.style.top = `${kerb_current_top + line_speed}px`;
     }
   }
+  

@@ -82,3 +82,4 @@
 - Score history and high score menu
   ![image](https://github.com/Nada-Khater/Car-Racing-JS/assets/85364511/eff56dd7-2ad1-474b-a6a2-632252e31928)
   ![image](https://github.com/Nada-Khater/Car-Racing-JS/assets/85364511/7d1cdd73-a180-415d-99e9-5fc285a1bea9)
+
